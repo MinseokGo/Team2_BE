@@ -178,7 +178,7 @@
 * 추후 사용 가능성을 고려해서 안쓰는 필드도 Response에 내려주는 것으로 결정
 
 6. 엔티티 추상화에 대한 고민 <br>
-<img width="376" alt="스크린샷 2024-06-21 오후 5 10 49" src="https://github.com/MinseokGo/Team2_BE/assets/96585636/2a445f9b-0cd3-4940-813a-9dc35e948a9b">
+<img width="376" alt="스크린샷 2024-06-21 오후 5 10 49" src="https://github.com/MinseokGo/Team2_BE/assets/96585636/2a445f9b-0cd3-4940-813a-9dc35e948a9b"> <br><br>
 * PK, createAt, updatedAt과 같은 엔티티에서 중복되는 필드들의 추상화를 고민하였음
 * 추후 필드 수정이 필요할 때 각 엔티티마다 수정해주어야 하는 유지보수에서의 불편함을 인지
 * BaseEntity를 통해 공통 필드들을 추상 클래스로 책임 분리함
