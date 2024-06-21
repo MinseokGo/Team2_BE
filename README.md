@@ -37,7 +37,7 @@
 - `aws 2.26`
 - [`figma`](https://www.figma.com/file/mHEG9xBpKbpSWu7x0m8hjF/%EB%84%A4%EC%BB%B7-%EC%95%A8%EB%B2%94?type=design&node-id=0-1&mode=design)
 - `slack`
-- [`notion`](https://www.notion.so/9ab1707f3ea14a1984ae4bf65e3bb9dc?v=eb66ff322ad0402399d3f71e517f2db8)
+- [`notion`]([https://www.notion.so/9ab1707f3ea14a1984ae4bf65e3bb9dc?v=eb66ff322ad0402399d3f71e517f2db8](https://gominseok.notion.site/e0babd4fb0be409d9d42456e75d67a63?v=01b4beedd4a7493ea44bd346c99775a3&pvs=4))
 
 <br>
 
@@ -134,8 +134,8 @@
 * 즉, 도메인 분리에 대한 고민을 하였음
 * 앨범 멤버는 앨범에 종속 되기 때문에 멤버 패키지를 앨범 패키지에 import 하였음.
 
-4. User 인증 객체 추출에 대한 고민
-![Untitled](https://github.com/Step3-kakao-tech-campus/Team2_BE/assets/101192772/8c44abd4-124b-47e8-9c14-1d017d99e665) </br></br></br></br>
+4. User 인증 객체 추출에 대한 고민</br></br></br></br>
+![Untitled](https://github.com/Step3-kakao-tech-campus/Team2_BE/assets/101192772/8c44abd4-124b-47e8-9c14-1d017d99e665) </br>
 * 해당 구문에 대해서 팀 내 두 가지 관점이 나옴
 * 첫번째로는 로그인한 유저의 정보를 임시 객체로 만들어서 UserDetails에 담는것보단 DB에서 해당 유저의 정보를 조회 후에 담는 것이 구조적으로 맞는 것 같다. 또한 이렇게 함으로써 유저 빌더에 id를 닫을 수 있다는 부가 장점도 있다는 의견
 * 두번째는 filter는 DS 이전에 실행되기 때문에 Filter에서 Repository를 가져와 DB를 조회하는 것은 역할의 혼합(DB 엑세스는 주로controller 또는 service 계층에서 처리)과 이로 이한 유지보수의 어려움 또한 확장성 측면에서 DB를 가져오는 것이 고민됨.
