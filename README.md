@@ -37,7 +37,7 @@
 - `aws 2.26`
 - [`figma`](https://www.figma.com/file/mHEG9xBpKbpSWu7x0m8hjF/%EB%84%A4%EC%BB%B7-%EC%95%A8%EB%B2%94?type=design&node-id=0-1&mode=design)
 - `slack`
-- [`notion`]([https://www.notion.so/9ab1707f3ea14a1984ae4bf65e3bb9dc?v=eb66ff322ad0402399d3f71e517f2db8](https://gominseok.notion.site/e0babd4fb0be409d9d42456e75d67a63?v=01b4beedd4a7493ea44bd346c99775a3&pvs=4))
+- [`notion`](https://gominseok.notion.site/e0babd4fb0be409d9d42456e75d67a63?v=01b4beedd4a7493ea44bd346c99775a3&pvs=4)
 
 <br>
 
