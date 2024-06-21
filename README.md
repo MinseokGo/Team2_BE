@@ -196,5 +196,6 @@
 - 한번에 조회할 수 있는 페이지를 제한하여 서버의 과부화를 미리 방지하고 최적화 하고자 함
 - Pageable 인터페이스를 도입하여 한번에 응답할 수 있는 페이지를 제한함
 ![image](https://github.com/MinseokGo/Team2_BE/assets/96585636/e45ba54c-15ce-4796-a4b5-a09dc4aa460e)
-![image](https://github.com/MinseokGo/Team2_BE/assets/96585636/458c5697-c9a0-4a6b-8d6f-ffb3a54a4dcb)
+![image](https://github.com/MinseokGo/Team2_BE/assets/96585636/3adc1eac-ddc2-42d7-be88-4b9d94409225)
+
 
